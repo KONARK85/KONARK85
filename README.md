@@ -9,7 +9,7 @@ Bible Seminary Educator transitioning into:
 - AI Governance
 - AGI Safety
 - Cyber Ethics
-- Ai Ethics
+- AI Ethics
 
 ## Interests
 
