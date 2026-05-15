@@ -23,7 +23,8 @@ Bible Seminary Educator transitioning into:
 
 - ISC2 CC
 - Google Cyber Security, eJPT (on going)
-- Learning and Spending Time in Try Hack Me Rooms and Labs 
+- Learning and Spending Time in Try Hack Me Rooms and Labs
+- Applied for  GRCP certification
 - NIST CSF
 - ISO 27001
 - Python
